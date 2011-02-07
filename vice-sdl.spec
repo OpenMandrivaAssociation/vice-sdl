@@ -2,7 +2,7 @@
 %define	name	vice-sdl
 %define oname	vice
 %define version 2.2
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary:	VICE, the Versatile Commodore Emulator
 Name:		%{name}
@@ -37,6 +37,7 @@ Requires(post):	desktop-file-utils
 Requires(postun):	desktop-file-utils
 Requires(post):	info-install
 Requires(preun):	info-install
+Conflicts:	vice
 
 %description
 VICE is a set of accurate emulators for the Commodore 64, 128, VIC20,
