@@ -1,8 +1,8 @@
 %define Werror_cflags %nil
 %define	name	vice-sdl
 %define oname	vice
-%define version 2.2
-%define release %mkrel 3
+%define version 2.3
+%define release %mkrel 1
 
 Summary:	VICE, the Versatile Commodore Emulator
 Name:		%{name}
