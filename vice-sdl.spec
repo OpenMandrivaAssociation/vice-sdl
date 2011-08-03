@@ -196,5 +196,5 @@ rm -rf %{buildroot}
 %{_infodir}/*info*
 %_datadir/applications/mandriva-*
 %{_iconsdir}/hicolor/*/apps/*.png
-%{_datadir}/info/vice.txt.xz
+# %{_datadir}/info/vice.txt 
 
