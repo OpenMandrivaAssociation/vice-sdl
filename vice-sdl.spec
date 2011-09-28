@@ -25,7 +25,6 @@ BuildRequires:	SDL-devel SDL_sound-devel
 BuildRequires:	libungif-devel
 BuildRequires:  ffmpeg-devel
 BuildRequires:  libalsa-devel
-BuildRequires:  libopencbm-devel
 BuildRequires:	gtkglext-devel
 BuildRequires:	libxxf86vm-devel
 BuildRequires:	flex
