@@ -176,5 +176,5 @@ tar xjf %{SOURCE3} -C %{buildroot}%{_iconsdir}/hicolor/16x16/apps
 %{_infodir}/*info*
 %{_datadir}/applications/mandriva-*
 %{_iconsdir}/hicolor/*/apps/*.png
-%{_datadir}/info/vice.*
+# %{_datadir}/info/vice.*
 
