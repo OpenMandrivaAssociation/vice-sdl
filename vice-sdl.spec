@@ -4,8 +4,8 @@
 
 Summary:	VICE, the Versatile Commodore Emulator
 Name:		vice-sdl
-Version:	2.3
-Release:	%mkrel 3
+Version:	2.3.14
+Release:	%mkrel 1
 License:	GPLv2
 Group:		Emulators
 Source0:	http://www.zimmers.net/anonftp/pub/cbm/crossplatform/emulators/VICE/%{oname}-%{version}.tar.gz
