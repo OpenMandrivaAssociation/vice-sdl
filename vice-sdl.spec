@@ -12,7 +12,7 @@ Source0:	http://www.zimmers.net/anonftp/pub/cbm/crossplatform/emulators/VICE/%{o
 Source1:	vice-normalicons.tar.bz2
 Source2:	vice-largeicons.tar.bz2
 Source3:	vice-miniicons.tar.bz2
-URL:		http://www.viceteam.org/
+URL:		https://www.viceteam.org/
 BuildRequires:	gettext-devel
 BuildRequires:	giflib-devel
 BuildRequires:	ffmpeg-devel
